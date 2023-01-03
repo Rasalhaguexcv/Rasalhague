@@ -4,6 +4,8 @@
 
 This is rasalhague: Pentester, Cybersecurity Researcher  and CTF Player .
 
+Here is my favorite quote “The hardest choices require the strongest wills.”
+
 I'll use it here to keep my notes together
 
 I hope it will be a useful resource for everyone.
